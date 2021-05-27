@@ -1,0 +1,7 @@
+redirects_endpoint.get_redirect:
+  path: 'api/redirects/getRedirect'
+  defaults:
+    _controller: '\Drupal\redirects_endpoint\Controller\RedirectsEndpointRestController::getRedirect'
+  methods: [ GET ]
+  requirements:
+    _access: 'TRUE'

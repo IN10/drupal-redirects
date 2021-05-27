@@ -1,0 +1,14 @@
+{
+    "name": "in10/drupal-redirects",
+    "description": "Retrieve a redirect based on source",
+    "type": "drupal-module",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Stephan de Bruin",
+            "email": "stephan.de.bruin@in10.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
